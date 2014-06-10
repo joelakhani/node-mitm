@@ -1,0 +1,28 @@
+{
+    "name": "mitm",
+    "version": "0.0.1",
+    "author": "Joe Lakhani <joe@scatterio.com>",
+    "description": "Stand-alone NodeJS server for debugging network traffic",
+    "contributors": [
+        {
+            "name": "Joe Lakhani",
+            "email": "joe@scatterio.com"
+        }
+    ],
+    "main": "./mitm.js",
+    "keywords": [
+        "network",
+        "web",
+        "debug",
+        "router"
+    ],
+    "repository": {
+        "url": "https://github.com/joelakhani/mitm",
+        "type": "git"
+    },
+    "engines": {
+        "node": ">=0.10.1"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
